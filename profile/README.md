@@ -1,10 +1,3 @@
-# Teste
-### Teste 2
+# **AfterLands**
 
----
-
-Teste 3
-
----
-
-**Teste em bold**
+Para mais informações acesse: https://www.afterlands.com/ ou nosso discord https://dc.afterlands.com/
