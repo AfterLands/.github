@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150?text=Afterlands+Logo" width="150" alt="Afterlands Logo">
+  <img src="./logo.png" width="150" alt="Afterlands Logo">
 
   # Bem-vindo à Afterlands
 
