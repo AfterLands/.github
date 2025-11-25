@@ -22,7 +22,7 @@
 
 The adventure begins on the server, but the community lives here:
 
-* 🌍 **Official Website / Store:** [afterlands.com](https://afterlands.com/)
+* 🌍 **Official Website / Store:** [www.afterlands.com](https://afterlands.com/)
 * 💬 **Official Discord:** [Join our community](https://discord.gg/ySZjhRFyCy)
 
 ## 🛠️ Tech Stack
