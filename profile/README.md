@@ -3,7 +3,7 @@
 
   # AfterLands
 
-  **Beyond the horizon, your journey begins...**
+  **The end of the world was just the beginning.**
 
   [![Website](https://img.shields.io/website?label=afterlands.com&style=for-the-badge&url=https://afterlands.com/)](https://afterlands.com/)
   [![Discord](https://img.shields.io/discord/1072151613805953106?color=5865F2&label=Community&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/ySZjhRFyCy)
